@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Government Contracting Services - Helping businesses secure government contracts, manage compliance, and develop winning proposals.">
+    <meta name="keywords" content="government contracts, contract acquisition, proposal development, compliance support, contract management">
+    <meta name="author" content="Jordan Kipp">
+    <title>Government Contracting Services</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">MyLogo</div>
+      <ul class="nav-links">
+        <li><a href="#">CONTRACT ACQUISITION</a></li>
+        <li><a href="#">PRODUCT DEVELOPMENT</a></li>
+        <li><a href="#">COMMUNITY IMPACT</a></li>
+        <li><a href="#">CUSTOMER SERVICE</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="hero">
+      <h1>WHY CHOOSE US?</h1>
+      <p>Your journey starts here</p>
+      <a href="#" class="cta-button">Get Started</a>
+    </section>
+  </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Comprehensive Government Contracting Services - From contract acquisition and proposal development to compliance and contract management.">
+    <meta name="keywords" content="government contracting services, contract acquisition, proposal development, compliance support, contract management, federal contracts">
+    <meta name="author" content="Jordan Kipp">
+    <title>Our Government Contracting Services</title>
+</head>
+<body>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Get in touch with Government Contracting Services for a free consultation on securing and managing government contracts.">
+    <meta name="keywords" content="contact government contracting services, government contract consultation, get in touch, support, government contracts">
+    <meta name="author" content="Jordan Kipp">
+    <title>Contact Us - Government Contracting Services</title>
+</head>
+<body>
